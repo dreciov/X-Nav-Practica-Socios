@@ -1,0 +1,23 @@
+{
+	"mensajes":[
+			{"autor": "yo",
+			"avatar": "images/yo.jpg ",
+			"titulo": "comer",
+			"contenido": "os voy a comer a todos!!!!",
+			"fecha":"26/04/2016"},
+
+			{"autor": "yo",
+			"avatar": "images/yo.jpg",
+			"titulo": "como vais",
+			"contenido": "ei que haceis comehierbas",
+			"fecha":"26/04/2016"},
+
+
+			{"autor": "yo",
+			"avatar": "images/yo.jpg ",
+			"titulo": "carne",
+			"contenido": "¿ei perro te vienes a comer carne?",
+			"fecha":"26/04/2016"}
+		]
+}
+			

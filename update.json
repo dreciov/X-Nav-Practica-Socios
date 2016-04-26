@@ -1,0 +1,22 @@
+{
+"mensajes":[
+			{"autor": "Tobby",
+			"avatar": "images/perro.jpg",
+			"titulo": "ok oso",
+			"contenido": "vale tio voy a comer carne contigo",
+			"fecha":"26/04/2016"},
+
+			{"autor": "Cabraloca",
+			"avatar": "images/cabra.jpg ",
+			"titulo": "hambre",
+			"contenido": "Weeeeee por fin a comer algo!!!!!",
+			"fecha":"26/04/2016"},
+
+
+			{"autor": "HorseLuis",
+			"avatar": "images/caballo.jpg",
+			"titulo": "ok",
+			"contenido": "yo voy en un rato que me estoy cagando",
+			"fecha":"26/04/2016"}
+		]
+}

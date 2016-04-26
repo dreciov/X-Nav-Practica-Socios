@@ -1,0 +1,22 @@
+{
+"mensajes":[
+			{"autor": "Tobby",
+			"avatar": "images/perro.jpg",
+			"titulo": "hola",
+			"contenido": "ei como vais",
+			"fecha":"26/04/2016"},
+
+			{"autor": "CabraLoca",
+			"avatar": "images/cabra.jpg ",
+			"titulo": "quedada",
+			"contenido": "¿Quedamos a comer unas hierbas?",
+			"fecha":"26/04/2016"},
+
+
+			{"autor": "HorseLuis",
+			"avatar": "images/caballo.jpg",
+			"titulo": "ok",
+			"contenido": "vale yo me apunto a las hierbas",
+			"fecha":"26/04/2016"}
+		]
+}
